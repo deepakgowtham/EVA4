@@ -1,5 +1,7 @@
 # CIFAR10 With use of Regular, Dilated, Depthwise Separable Convolutions
 
+Group Members: Deepak Gowtham U, Bikash Bhoi
+
 ## Observation
 Best Test Accuracy 84.05%
 
