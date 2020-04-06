@@ -8,7 +8,7 @@ Best Test Accuracy 90.26%
 
 ## Train and Test accuracy
 
-![Accuracy_curve] (https://github.com/deepakgowtham/EVA4/blob/master/Week10/Learnig_curve.png)
+![Accuracy_curve](https://github.com/deepakgowtham/EVA4/blob/master/Week10/Learnig_curve.png)
 
 ## Logs
 
