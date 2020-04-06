@@ -6,6 +6,8 @@ Group Members : Deepak Gowtham, Bikash Ranjan Bhoi
 ## Observation
 Best Test Accuracy 90.26%
 
+## Train and Test accuracy
+![Accuracy curve] (https://github.com/deepakgowtham/EVA4/blob/master/Week10/Learnig_curve.png)
 
 ## Logs
 
