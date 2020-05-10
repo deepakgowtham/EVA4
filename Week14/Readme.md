@@ -2,6 +2,7 @@
 ## 1. Dataset Drive Link
 
 (fg, bg, fg_masks in folder, fg_bg, fg_bg_mask, depth images zipped in the folder)
+<br>
 https://drive.google.com/open?id=1aXOUCyBZn8fL2mL037g7TvYvuTsj7rfg
 
 ## 2. Dataset Statistics
@@ -36,7 +37,7 @@ Foreground Mask(fg_mask) Count : 104 :
 
 
 Foreground overlayed randomly on Background (fg_bg) Count : 424320 :
-![fg_bg](https://github.com/deepakgowtham/EVA4/blob/master/Week14/Images/fg_bg_mask.png)
+![fg_bg](https://github.com/deepakgowtham/EVA4/blob/master/Week14/Images/fg_bg.png)
 
 
 
