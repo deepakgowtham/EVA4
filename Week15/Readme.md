@@ -152,7 +152,7 @@ The full model summary of both the models can be found in this notebook [here](h
 ## Challanges and Lessons:
 - Handling the large data was a challange, the training time per epoch was high which made it mandatory to save the progress of the training everytime directly in google drive instead on colab. Lost few epochs of training because of not saving it in drive.
 - Modularising helped us to avoid run time restarts every time of colab as we are running the code as python command.
-- Tried using HD5 file system for data loading, the size of stored files increased but loading time reduced with higher batch size but was not able to complete it as I faced issue for loading both the images with saved with same name, this was not a problem when loading using csv file as it contained the image name along with the path.
+- Tried using HD5 file system for data loading, the size of stored files increased but loading time reduced with higher batch size but was not able to complete it as I faced issue for loading both the images saved with same name, this was not a problem when loading using csv file as it contained the image name along with the path.
 - The model is overfitting. Implementing cut out strategy will help reduce the overfitting.
 - Need to implement data augumentation strategies.
 - Changed the optimizer from Adam to SGD but it didnt improve both the training time and improve performance.
