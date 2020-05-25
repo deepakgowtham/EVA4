@@ -110,7 +110,7 @@ The input size of the fg_bg image and the depth images were increased incrementa
 ![Predicted Mask](https://github.com/deepakgowtham/EVA4/blob/master/Week15/Images/Epoch14/output_mask.png)
 ##### Predicted Depth Images:
 ![Predicted Depth](https://github.com/deepakgowtham/EVA4/blob/master/Week15/Images/Epoch14/output_depth.png)
-![Predicted Depth](https://github.com/deepakgowtham/EVA4/blob/master/Week15/Images/Epoch14/output_depth_2.png)
+
 
 - The notebook for this epoch can be found [here](https://github.com/deepakgowtham/EVA4/blob/master/Week15/Notebooks/EVA4_Session15_Epoch_14.ipynb)
 
